@@ -1,4 +1,4 @@
-module github.com/okta/okta-jwt-verifier-golang
+module github.com/carcher5432/okta-jwt-verifier-golang
 
 require (
 	github.com/jarcoal/httpmock v1.1.0 // indirect
